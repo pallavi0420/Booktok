@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booktok</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="banner">
+        <div class="navbar">
+            <ul>
+                <li><a href="#">Genres</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Booktok's Goodreads</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <h1>MEET YOUR 'THE FICTIONAL CHARACTER'</h1>
+            <p>Giving you the chance for not only meeting your next favourite read but also people with similar taste!<br>
+            WELCOME TO BOOKTOK!</p>
+            <div>
+                <button type="button"><span></span>Share with Friends</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
